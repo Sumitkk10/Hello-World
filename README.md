@@ -1,2 +1,2 @@
 # Hello-World
-simple hello world rogram
+simple hello world program
